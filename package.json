@@ -1,0 +1,25 @@
+{
+  "name": "tsk1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "date": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlenaNosova/002-console-tsk1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlenaNosova/002-console-tsk1/issues"
+  },
+  "homepage": "https://github.com/AlenaNosova/002-console-tsk1#readme",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
